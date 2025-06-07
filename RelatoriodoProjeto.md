@@ -44,3 +44,7 @@ O projeto será desenvolvido como um **bot com AI multi-agente**, que contará c
 
 - Uma interface web para conversação com o usuário  
 - Geração de relatórios de acordo com as solicitações recebidas
+
+## Elementos Adicionais
+
+N/A.
