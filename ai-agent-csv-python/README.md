@@ -38,7 +38,7 @@ ai-agent-csv-python/
 
 ## 🎯 Exemplos de Perguntas
 
-
+<img src="images/screenshot.png" alt="Exemplo de perguntas" align="center">
 
 
 ## 🚀 Como Usar
