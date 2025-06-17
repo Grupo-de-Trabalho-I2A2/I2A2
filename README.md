@@ -6,7 +6,7 @@ _CODELAB10-I2A2_
 
 ## Integrantes do Grupo
 
-- Cristiane Huve 
+- Cristiane Huve (líder)
 - Denise Cristina
 - Felipe Lopes
 - Reinaldo Camargo
