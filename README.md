@@ -7,9 +7,8 @@ _CODELAB10-I2A2_
 ## Integrantes do Grupo
 
 - Cristiane Huve (líder)
-- Denise Cristina
-- Felipe Lopes
 - Reinaldo Camargo
+- Felipe Lopes
 - Bruno Hauck
 - Peri Parpinelli
 - Hadrian Kallkmann
